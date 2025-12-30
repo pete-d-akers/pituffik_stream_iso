@@ -1,0 +1,120 @@
+sample_id,date,latitude,longitude,elevation,d18O,d2H,dxs,site_name_original,type,type_number,catchment_name,alt_catchment_name,stream_group,minor_stream_group,qc_flag
+2018_033_NorthRiverShelter5.8_1,23/06/2018,76.5203,-68.3681,195,-0.024,-0.179,0.013,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_044_NorthRiverShelter5.8_1,27/06/2018,76.5203,-68.3681,195,-0.0242,-0.181,0.013,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_136_NorthRiverShelter5.8_08.07.18,08/07/2018,76.5203,-68.3681,195,-0.0228,-0.171,0.011,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_142_NorthRiverShelter5.8_11.07.18,11/07/2018,76.5203,-68.3681,195,-0.0241,-0.18,0.013,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_233_NorthRiverShelter5.8_lost,19/07/2018,76.5203,-68.3681,195,,,,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,1
+2018_244_NorthRiverShelter5.8_1,30/07/2018,76.5203,-68.3681,195,-0.0217,-0.167,0.007,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_254_NorthRiverShelter5.8_1,03/08/2018,76.5203,-68.3681,195,-0.0216,-0.163,0.01,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_209_NorthRiverShelter5.8_1,10/08/2018,76.5203,-68.3681,195,-0.0208,-0.156,0.01,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_219_NorthRiverShelter5.8_15.08.18,15/08/2018,76.5203,-68.3681,195,-0.0208,-0.157,0.009,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_003_NorthRiverShelter5.8_17072019,17/07/2019,76.5203,-68.3681,195,-0.0207,-0.156,0.01,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_025_NorthRiverShelter5.8_19072019,19/07/2019,76.5203,-68.3681,195,-0.0212,-0.159,0.011,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_058_NorthRiverShelter5.8_22072019,22/07/2019,76.5203,-68.3681,195,-0.0205,-0.153,0.011,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_144_NorthRiverShelter5.8_26072019,26/07/2019,76.5203,-68.3681,195,-0.0209,-0.156,0.011,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_199_NorthRiverShelter5.8_30072019,30/07/2019,76.5203,-68.3681,195,-0.02,-0.153,0.007,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2019_227_NorthRiverShelter5.8_01082019,01/08/2019,76.5203,-68.3681,195,-0.0201,-0.154,0.007,North River Shelter 5.8,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall,0
+2018_047_IceWallStream_1,27/06/2018,76.5406,-68.1422,350,-0.0241,-0.181,0.012,Ice Wall River,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2018_211_IceWallStream_1,10/08/2018,76.5406,-68.1422,350,-0.0206,-0.155,0.01,Ice Wall River,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_117_IceWallRiver_NriverHead_25072019,25/07/2019,76.5406,-68.1422,350,-0.0208,-0.156,0.01,Ice Wall River,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_212_IceWallRiverBelowWaterslide_31072019,31/07/2019,76.5386,-67.9722,516,-0.0204,-0.153,0.01,Ice Wall River Below Waterslide,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_210_IceWallRiverHikeEnd_31072019,31/07/2019,76.5419,-68.1092,380,-0.0204,-0.153,0.01,Ice Wall River Hike End,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_209_IceWallRiverHikeStart_31072019,31/07/2019,76.5419,-68.1092,380,-0.0202,-0.153,0.009,Ice Wall River Hike Start,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_213_IceWallRiverMiddleWaterslide_31072019,31/07/2019,76.5386,-67.9722,516,-0.0205,-0.153,0.011,Ice Wall River Middle Waterslide,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_211_IceWallRiverUpperIceWall_31072019,31/07/2019,76.5419,-68.0461,427,-0.0206,-0.155,0.01,Ice Wall River Upper Ice Wall,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2019_214_IceWallRiverUpperWaterslide_31072019,31/07/2019,76.5386,-67.9722,516,-0.0208,-0.156,0.01,Ice Wall River Upper Waterslide,stream,3,Pituffik,North River,Pituffik,Pituffik Ice Wall Head,0
+2018_010_NorthRiverMouth_1,18/06/2018,76.5406,-68.7503,53,-0.0227,-0.172,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_032_NorthRiverMouth_1,23/06/2018,76.5406,-68.7503,53,-0.0229,-0.172,0.011,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_043_NorthRiverMouth_1,27/06/2018,76.5406,-68.7503,53,-0.0225,-0.17,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_054_NorthRiverMouth_1,29/06/2018,76.5406,-68.7503,53,,,,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,1
+2018_089_NorthRiverMouth_1,02/07/2018,76.5406,-68.7503,53,-0.0214,-0.164,0.007,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_134_NorthRiverMouth_1,08/07/2018,76.5406,-68.7503,53,-0.0218,-0.164,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_140_NorthRiverMouth_1,11/07/2018,76.5406,-68.7503,53,-0.0218,-0.166,0.008,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_231_NorthRiverMouth_1,19/07/2018,76.5406,-68.7503,53,-0.0216,-0.163,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_242_NorthRiverMouth_1,30/07/2018,76.5406,-68.7503,53,-0.0215,-0.163,0.009,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_252_NorthRiverMouth_1,03/08/2018,76.5406,-68.7503,53,-0.0211,-0.16,0.009,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_198_NorthRiverMouth_1,07/08/2018,76.5406,-68.7503,53,-0.0202,-0.152,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_217_NorthRiverMouth_1,15/08/2018,76.5406,-68.7503,53,-0.0206,-0.154,0.011,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_280_NorthRiverMouth_1,20/08/2018,76.5406,-68.7503,53,-0.021,-0.157,0.011,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_001_NorthRiverMouth_17072019,17/07/2019,76.5406,-68.7503,53,-0.0208,-0.156,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_023_NorthRiverMouth_19072019,19/07/2019,76.5406,-68.7503,53,-0.0212,-0.159,0.011,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_056_NorthRiverMouth_22072019,22/07/2019,76.5406,-68.7503,53,-0.0201,-0.152,0.009,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_142_NorthRiverMouth_26072019,26/07/2019,76.5406,-68.7503,53,-0.0199,-0.153,0.006,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_197_NorthRiverMouth_30072019,30/07/2019,76.5406,-68.7503,53,-0.0206,-0.155,0.01,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_200_NorthRiverMouthLateAfternoonMaxFlow_30072019,30/07/2019,76.5406,-68.7503,53,-0.0198,-0.152,0.006,North River Mouth Late Afternoon Max Flow,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2019_225_NorthRiverMouth_01082019,01/08/2019,76.5406,-68.7503,53,-0.0207,-0.155,0.011,North River Mouth,stream,3,Pituffik,North River,Pituffik,Pituffik Mouth,0
+2018_135_NorthRiverSouthForkShelter2_1,08/07/2018,76.5308,-68.5594,114,-0.0212,-0.159,0.011,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_141_NorthRiverSouthForkShelter2_1,11/07/2018,76.5308,-68.5594,114,-0.0214,-0.162,0.009,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_232_NorthRiverSouthForkShelter2_1,19/07/2018,76.5308,-68.5594,114,-0.0208,-0.158,0.008,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_243_NorthRiverSouthForkShelter2_1,30/07/2018,76.5308,-68.5594,114,-0.0199,-0.154,0.005,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_253_NorthRiverSouthForkShelter2_1,03/08/2018,76.5308,-68.5594,114,-0.019,-0.149,0.003,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_208_NorthRiverSouthForkShelter2_1,10/08/2018,76.5308,-68.5594,114,-0.0203,-0.153,0.009,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_218_NorthRiverSouthForkShelter2_1,15/08/2018,76.5308,-68.5594,114,-0.0205,-0.153,0.011,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_002_NorthRiverShelter2SouthFork_17072019,17/07/2019,76.5308,-68.5594,114,-0.0207,-0.155,0.011,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_024_NorthRiverShelterSouthFork_19072019,19/07/2019,76.5308,-68.5594,114,-0.0211,-0.158,0.011,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_057_NorthRiverShelter2SouthFork_22072019,22/07/2019,76.5308,-68.5594,114,-0.02,-0.151,0.009,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_088_NorthRiverShelter2SouthFork_23072019,23/07/2019,76.5308,-68.5594,114,-0.0202,-0.153,0.009,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_143_NorthRiverShelter2SouthFork_26072019,26/07/2019,76.5308,-68.5594,114,-0.0208,-0.156,0.01,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_198_NorthRiverShelter2SouthFork_30072019,30/07/2019,76.5308,-68.5594,114,-0.0207,-0.155,0.011,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2019_226_NorthRiverShelter2SouthFork_01082019,01/08/2019,76.5308,-68.5594,114,-0.0205,-0.155,0.009,North River Shelter 2 South Fork,stream,3,Pituffik,North River,Pituffik,Pituffik Snoutwash,0
+2018_126_FoxCanyonBridgeJointFlow_07.07.18,07/07/2018,76.4664,-68.5797,198,-0.0229,-0.17,0.013,Fox Canyon Bridge Joint Flow,stream,3,Sioraq,South River,Sioraq,Other Sioraq,0
+2019_007_FoxRiverBridgeJoint_17072019,17/07/2019,76.4664,-68.5797,198,-0.02,-0.15,0.01,Fox Canyon Bridge Joint Flow,stream,3,Sioraq,South River,Sioraq,Other Sioraq,0
+2019_194_FoxCanyonBridgeJointFlow_29072019,29/07/2019,76.4664,-68.5797,198,-0.0195,-0.148,0.008,Fox Canyon Bridge Joint Flow,stream,3,Sioraq,South River,Sioraq,Other Sioraq,0
+2018_026_FertilizerPlotLowerDrainage_1,22/06/2018,76.4861,-68.4375,237,-0.021,-0.16,0.008,Blackmoss Wash Joint Flow,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2018_166_BlackMossWash_1,16/07/2018,76.4864,-68.42,241,-0.021,-0.159,0.009,Blackmoss Wash East Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2018_249_FertilizerRidgeFlow_1,01/08/2018,76.4861,-68.4375,237,-0.0209,-0.16,0.007,Blackmoss Wash Joint Flow,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2018_196_OldMineRiver_1,03/08/2018,76.44,-68.2811,452,-0.0205,-0.155,0.009,Old Mine River,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_008_FertilizerRidgeDrainage_17072019,17/07/2019,76.4861,-68.4375,237,-0.0198,-0.149,0.009,Blackmoss Wash Joint Flow,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_171_OldMineRiverDownstream_27072019,27/07/2019,76.44,-68.2811,452,-0.0199,-0.149,0.01,Old Mine River Downstream,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_149_FertilizerRidgeDrainageEastFork_27072019,27/07/2019,76.4861,-68.4375,237,-0.02,-0.15,0.01,Blackmoss Wash East Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_148_FertilizerRidgeDrainageJointFlow_27072019,27/07/2019,76.4861,-68.4375,237,-0.0199,-0.15,0.009,Blackmoss Wash Joint Flow,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_150_FertilizerRidgeDrainageSouthFork_27072019,27/07/2019,76.4861,-68.4375,237,-0.0198,-0.149,0.009,Blackmoss Wash South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_175_BlackmossRiverEastFork_29072019,29/07/2019,76.4861,-68.4375,237,-0.0198,-0.149,0.009,Blackmoss Wash East Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_174_BlackmossRiverJointFlow_29072019,29/07/2019,76.4861,-68.4375,237,-0.0196,-0.149,0.008,Blackmoss Wash Joint Flow,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2019_176_BlackmossRiverSouthFork_29072019,29/07/2019,76.4861,-68.4375,237,-0.02,-0.15,0.01,Blackmoss Wash South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Blackmoss,0
+2018_009_SouthRiverMouth_1,18/06/2018,76.5206,-68.8772,22,-0.0231,-0.174,0.011,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_034_SouthRiverMouth_1,23/06/2018,76.5206,-68.8772,22,-0.0231,-0.174,0.011,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_045_SouthRiverMouth_1,27/06/2018,76.5206,-68.8772,22,-0.0232,-0.175,0.011,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_090_SouthRiverMouth_1,02/07/2018,76.5206,-68.8772,22,-0.0215,-0.165,0.007,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_137_SouthRiverMouth_1,08/07/2018,76.5206,-68.8772,22,-0.0222,-0.167,0.011,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_143_SouthRiverMouth_1,11/07/2018,76.5206,-68.8772,22,-0.022,-0.167,0.009,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_234_SouthRiverMouth_lost,20/07/2018,76.5206,-68.8772,22,,,,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,1
+2018_245_SouthRiverMouth_1,30/07/2018,76.5206,-68.8772,22,-0.0214,-0.163,0.008,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_257_SouthRiverMouth_1,04/08/2018,76.5206,-68.8772,22,-0.0206,-0.157,0.008,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_199_SouthRiverMouth_1,07/08/2018,76.5206,-68.8772,22,-0.0199,-0.151,0.008,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_225_SouthRiverMouth_1,16/08/2018,76.5206,-68.8772,22,-0.0202,-0.152,0.01,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_268_SouthRiverMouth_1,20/08/2018,76.5206,-68.8772,22,-0.0204,-0.153,0.01,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2019_004_SouthRiverMouth_17072019,17/07/2019,76.5206,-68.8772,22,-0.02,-0.15,0.01,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2019_026_SouthRiverMouth_19072019,19/07/2019,76.5206,-68.8772,22,-0.0204,-0.152,0.011,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2019_059_SouthRiverMouth_22072019,22/07/2019,76.5206,-68.8772,22,-0.0196,-0.148,0.009,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2019_195_SouthRiverMouth_29072019,29/07/2019,76.5206,-68.8772,22,-0.0187,-0.145,0.005,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2019_228_SouthRiverMouth_01082019,01/08/2019,76.5206,-68.8772,22,-0.0199,-0.149,0.01,South River Mouth,stream,3,Sioraq,South River,Sioraq,Sioraq Mouth,0
+2018_125_FoxCanyonBridgeSouthFork_1,07/07/2018,76.4664,-68.5797,198,-0.0236,-0.175,0.014,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2018_145_FoxCanyonSouthFork_1,11/07/2018,76.4664,-68.5797,198,-0.0241,-0.181,0.012,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2018_236_FoxCanyonSouthFork_1,20/07/2018,76.4664,-68.5797,198,,,,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,1
+2018_247_FoxCanyonSouthFork_1,27/07/2018,76.4664,-68.5797,198,-0.0215,-0.163,0.009,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2018_256_FoxCanyonSouthFork_1,03/08/2018,76.4664,-68.5797,198,-0.0216,-0.162,0.011,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2018_221_FoxCanyonSouthFork_1,15/08/2018,76.4664,-68.5797,198,-0.0211,-0.159,0.01,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2019_006_FoxRiverBridgeSouthFork_17072019,17/07/2019,76.4664,-68.5797,198,-0.0202,-0.151,0.011,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2019_018_FoxRiverBridgeSouthFork_18072019,18/07/2019,76.4664,-68.5797,198,-0.0204,-0.153,0.01,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2019_094_FoxRiverBridgeSouthFork_25072019,25/07/2019,76.4664,-68.5797,198,-0.0192,-0.146,0.008,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2019_193_FoxCanyonBridgeSouthFork_29072019,29/07/2019,76.4664,-68.5797,198,-0.0198,-0.148,0.01,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2019_230_FoxCanyonBridgeSouthFork_01082019,01/08/2019,76.4664,-68.5797,198,-0.0192,-0.146,0.008,Fox Canyon Bridge South Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Pingorsuit,0
+2018_124_FoxCanyonBridgeNorthFork_1,07/07/2018,76.4664,-68.5797,198,-0.0222,-0.165,0.013,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2018_144_FoxCanyonNorthFork_1,11/07/2018,76.4664,-68.5797,198,-0.0222,-0.167,0.011,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2018_235_FoxCanyonNorthFork_1,20/07/2018,76.4664,-68.5797,198,-0.0219,-0.166,0.009,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2018_246_FoxCanyonNorthFork_1,27/07/2018,76.4664,-68.5797,198,-0.0209,-0.16,0.007,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2018_255_FoxCanyonNorthFork_1,03/08/2018,76.4664,-68.5797,198,-0.0208,-0.157,0.009,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2018_220_FoxCanyonNorthFork_1,15/08/2018,76.4664,-68.5797,198,-0.0202,-0.152,0.01,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_005_FoxRiverBridgeNorthFork_17072019,17/07/2019,76.4664,-68.5797,198,-0.02,-0.151,0.009,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_017_FoxRiverBridgeNorthFork_18072019,18/07/2019,76.4664,-68.5797,198,-0.0202,-0.152,0.01,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_093_FoxRiverBridgeNorthFork_25072019,25/07/2019,76.4664,-68.5797,198,-0.0199,-0.149,0.01,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_192_FoxCanyonBridgeNorthFork_29072019,29/07/2019,76.4664,-68.5797,198,-0.0198,-0.149,0.009,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_229_FoxCanyonBridgeNorthFork_01082019,01/08/2019,76.4664,-68.5797,198,-0.02,-0.15,0.01,Fox Canyon Bridge North Fork,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto,0
+2019_191_UpperNorthForkFoxCanyon_29072019,29/07/2019,76.3882,-68.38,376,-0.0196,-0.149,0.008,Headwaters of North Fork Fox Canyon,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_185_IceCanyonAboveWaterfall_29072019,29/07/2019,76.3878,-68.3742,383,-0.0188,-0.146,0.004,Ice Canyon Above Waterfall,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_187_IceCanyonBelowWaterfall_29072019,29/07/2019,76.3878,-68.3742,383,-0.02,-0.15,0.01,Ice Canyon Below Waterfall,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_180_IceCanyonRiverPreBankSpring_29072019,29/07/2019,76.4028,-68.3219,453,-0.0198,-0.15,0.008,Ice Canyon River Pre Bank Spring,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_179_UpperIceCanyonRiverAfternoon_29072019,29/07/2019,76.4111,-68.2997,500,-0.0201,-0.151,0.01,Upper Ice Canyon River Afternoon,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_178_UpperIceCanyonRiverMorning_29072019,29/07/2019,76.4111,-68.2997,500,-0.0201,-0.15,0.011,Upper Ice Canyon River Morning,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
+2019_232_IceRampPoolRiver_01082019,01/08/2019,76.4111,-68.2997,500,-0.0198,-0.15,0.008,Ice Ramp Pool River,stream,3,Sioraq,South River,Sioraq,Sioraq Tuto Head,0
